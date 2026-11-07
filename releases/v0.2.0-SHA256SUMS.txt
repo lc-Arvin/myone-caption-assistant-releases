@@ -1,0 +1,2 @@
+784455a96a82f0ff2b8bb6ada17f7acc70a35e9b9d21f934e4160e55c15cd6a4  ChestnutOne-Caption-Assistant-Quick-Start-zh-CN.txt
+e3633c3336f8e8b15323aff7c573dcc0ef7501c9b079a0e1d52ed36de4684e53  ChestnutOne-Caption-Assistant-Windows-x64-0.2.0.zip
