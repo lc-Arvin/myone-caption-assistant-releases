@@ -1,0 +1,2 @@
+c458a1e9c409998a1fe30a00ac1730026e12a5452687931efa2e34c6020b227b  MyOne-Caption-Assistant-Windows-x64-0.1.2.zip
+0735e98a8c6faa285f25acd63a84a161d5409f84d1e2c0dcd1e56495f28ab843  MyOne-Caption-Assistant-Quick-Start-zh-CN.txt
